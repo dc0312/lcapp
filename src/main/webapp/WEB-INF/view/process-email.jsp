@@ -11,7 +11,7 @@
     <title>Email Sent</title>
 </head>
 <body>
-    <h1>Hi</h1>
+    <h1>Hi ${userInfo.userName}</h1>
     <p>
         Email send successfully to ${emailInfo.email}
     </p>

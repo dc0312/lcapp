@@ -12,7 +12,7 @@
     <title>Email Form</title>
 </head>
 <body>
-    <h1>Hi ${username}</h1>
+    <h1>Hi ${userInfo.userName}</h1>
     <h2>Send Result to your email</h2>
     <br/>
     <br/>
